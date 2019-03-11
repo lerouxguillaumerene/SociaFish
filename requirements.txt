@@ -1,0 +1,11 @@
+flask
+colorama
+sqlite3
+flask_login
+shutil
+re
+os
+secrets
+python-nmap
+smtplib
+email
